@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MiguelBatista-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelbatistaribeiro/)](https://www.linkedin.com/in/miguelbatistaribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-miguelbatista.web@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:miguelbatista.web@gmail.com)](https://www.gmail.com/)
 [![Instagram Badge](https://img.shields.io/badge/-migbari-a43b9d?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/migbari/)](https://www.instagram.com/migbari/)
-[![Medium Badge](https://img.shields.io/badge/-@miguelbatista1995-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@miguelbatista1995)](https://medium.com/@miguelbatista1995)
+[![Medium Badge](https://img.shields.io/badge/-@migbari-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@migbari)](https://medium.com/@migbari)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/###)](#)
 
 <div style="display="flex"; flex-direction="row">
