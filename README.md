@@ -40,8 +40,8 @@ Sou uma pessoa feliz, com uma ótima família, grato a Deus por tudo e sem medo 
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-1f1d1d?style=for-the-badge&logo=react&logoColor=61DBFB) 
-![React](https://img.shields.io/badge/-React%20Native-1f1d1d?style=for-the-badge&logo=react&logoColor=61DBFB) 
-
+[![React](https://img.shields.io/badge/-React%20Native-1f1d1d?style=for-the-badge&logo=react&logoColor=61DBFB) 
+](url)
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
 
