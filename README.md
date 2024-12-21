@@ -39,16 +39,8 @@ Sou uma pessoa feliz, com uma ótima família, grato a Deus por tudo e sem medo 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-a43b9d?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
-
-
-### 💻 Estudando atualmente
-![CSharp](https://img.shields.io/badge/-CSharp-a43b9d?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=fff)
-
-### 👀 Estou interessado
 ![React](https://img.shields.io/badge/-React.js-1f1d1d?style=for-the-badge&logo=react&logoColor=61DBFB) 
 ![React](https://img.shields.io/badge/-React%20Native-1f1d1d?style=for-the-badge&logo=react&logoColor=61DBFB) 
-
 
 ### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
